@@ -13,3 +13,4 @@ It may have taken several days, but the website is finally accessciable from som
 - Finally got the Github Pages working, with a theme
     - Turns out that I just spelt a name wrong
 - Wrote a step-by-step guide for myself on how to porperly commit things to this repository, so I now can upload these journals from a command line using git
+- Quick Test
