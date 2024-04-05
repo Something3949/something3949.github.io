@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<header>
+  <h1>{{ site.title }}</h1>
+  <p>Hello there! Welcome to this website. I know that it is very early 2000s ".com" boom of me to have this, but why not? Having a personal website seems like a great idea. Listed below are a number of categories ranging from project overviews to daily journals describing what it is that I'm getting up to / have gotten up to during this personal interest period. That's all I have to say, bye bye. </p>
+  {%-if site.theme_config.show_description-%}
+    <p>{{ site.description }}</p>
+  {%-endif-%}
+</header>
+
+{%-include menu_item.html collection=site.data.menu.entries-%}
+
+{{ content }}
