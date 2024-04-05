@@ -14,9 +14,10 @@ entries:
     url: weeklySummariesLanding
   - title: Testing Markdown Stuff
     url: testPage
-<<<<<<< HEAD
   - title: Eco-Challenge
     url: ecoChallengeMain
+<<<<<<< HEAD
+
 =======
 >>>>>>> 84c999976215e54251c7965e6264bb57ab256c4c
 #  entries:
