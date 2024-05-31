@@ -24,5 +24,8 @@ Listed below are all the projects that I've done, and they should link to pages 
 - [How to Blow Up a Pipeline](boomPipeline)
 
 ## Newsletters
-- [February Environmental Newsletter](februaryNewsletter)
-- [March Environmental Newsletter](marchNewsletter)
+- [February Environmental Newsletter](February Newsletter.pdf)
+- [March Environmental Newsletter](March Newsletter.pdf)
+- [April Environmental Newsletter](April Newsletter.pdf)
+- [May Environmental Newsletter](May Newsletter.pdf)
+- [Green Archtecture Newsletter](Green Architecture Newsletter.pdf)
