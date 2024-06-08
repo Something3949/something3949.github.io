@@ -4,12 +4,6 @@
 
 
 entries: 
-  - title: <h2>Daily Logs</h2>
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: View Archieve...
-      show_more_url: archive.html 
   - title: Weekly Summaries
     url: weeklySummariesLanding
   - title: Testing Markdown Stuff
