@@ -19,6 +19,7 @@ print("It is unfortunately in light mode")
 [Link to Home Page](/no-style-please/)
 <br/><br/>
 ![Picture](picture.png)
+![Picture](April Newsletter.pdf)
 <br/><br/>
 
 
